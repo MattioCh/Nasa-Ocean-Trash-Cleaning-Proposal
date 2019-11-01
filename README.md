@@ -14,6 +14,7 @@ Additionally, the oil usage for the pulling boat of “Ocean Cleanup” would al
 We have come up with a solution that incorporates cargo shipping system, with the drone remote sensing technology, supplemented with algorithm that would help analysing the data gathered to find optimal route for collecting the trash. The trash collected would then be converted to oil using hydrothermal liquefaction using supercritical water, which is a strong oxidising agent that can decompose plastic.
 
 <h2>2. Three Main Technology</h2>
+
 - The drone remote sensing technology, which will be allocated on the collection boat, can monitor the direction of current, the speed of the wave, and the trash distribution.
 
 - Optimization of collection route. This is a collection path calculated with the data by the drone, OSCAR third degree resolution ocean surface currents, NASA and NOAA Altimetric and Ocean Surface Topography Data Information and QuikSCAT. These data includes the color, the altimetry of the ocean and the wind velocity.
@@ -24,15 +25,16 @@ We have come up with a solution that incorporates cargo shipping system, with th
 3-1 Trash Detection:
 The trash density in different regions is calculated with the data from the drone and data from Nasa regarding ocean surface color. Collection ships are allocated to areas with different trash density at the same time so that the collecting process would be more effective.
 
+<br>
 3-2 An Optimal Route for Collecting Trash
 The collection ship would follow a path, given by an algorithm that would combine the available data to find an optimised route which would maximise the amount of trash collected while travelling. The data take multiple consideration when finding an optimal routes. The direction of the tide, the speed of the tide, the movements of the trash that is coming towards the boat. The image processing technology on the drone would further allow to predict the possible movement of the trash on the ocean. The optimal route is a path where the collecting ship would follow such that it would be able to include as many trash as possible on the route.
-
+<br>
 3-3 Utilisation of Sea Anchoring
 Sea anchoring was used as a rescue practice for boats when emergency situation occurs and the boat has to remain at the same position. However, we will use sea anchoring now to prevent movement of the collection of the boat. The algorithm could calculate a position where the trash would flow past so that the collection ships would not need to move at all. The ships would only need to face to the correct direction so that the trash would automatically flow into its U-shape structure.
-
+<br>
 3-4 After Collection
 After collecting the expected amount of trash, each collection ship will be assigned to a nearby cargo ship and the collection ship will head towards the cargo ship to remove the garbage from the collector to the cargo ship. Every cargo ship in the clean-up project is modified into a multi-functional ship, for which 75% is used as normal cargo, and 25% is used to undergo hydrothermal liquefaction which can turn plastic to diesel oil. The oil produced is then supplied to the small ship. The entire resource cycle completed as the plastic turns into mechanical energy that would fuel another mission for collecting ships.
-
+<br>
 <h2>4. The benefit of Using Existing Cargo Delivery System</h2>
 Initially, we were thinking of using a larger boat to mainly focusing on turning trash into oil and distributing oil to smaller boat. However, we realise that it is not efficient as the energy for the collection ship to move to the larger boat might waste a lot of oil.
 
