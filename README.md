@@ -1,10 +1,10 @@
 
 (all the pictures :https://drive.google.com/file/d/1sK2JDKNtH-OX0Zep0...)
 
-</h1>1. Overview and Existing solution<h1/>
+<h1>1. Overview and Existing solution </h1>
 In the past ten years, ocean trash has been increasing at a rate that we would have never imagined. The existing solution provided by “the Ocean Cleanup” company has started their project since 2015. However, for the 320 million tons of oceans that humans have already created, the existing solution estimated to complete 90% of the cleaning by 2040.
 
-IT IS NOT FAST ENOUGH.
+<b>IT IS NOT FAST ENOUGH.<b/>
 Additionally, the oil usage for the pulling boat of “Ocean Cleanup” would also generate pollution depending on the number of ships used. However, if we wanted to clean the trash faster, more ships would be used and more pollution would be produced.
 
 IT IS NOT SUSTAINABLE.
