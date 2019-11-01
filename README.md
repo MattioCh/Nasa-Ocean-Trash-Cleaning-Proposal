@@ -1,7 +1,7 @@
 
 (all the pictures :https://drive.google.com/file/d/1sK2JDKNtH-OX0Zep0...)
 
-1. Overview and Existing solution
+</h1>1. Overview and Existing solution<h1/>
 In the past ten years, ocean trash has been increasing at a rate that we would have never imagined. The existing solution provided by “the Ocean Cleanup” company has started their project since 2015. However, for the 320 million tons of oceans that humans have already created, the existing solution estimated to complete 90% of the cleaning by 2040.
 
 IT IS NOT FAST ENOUGH.
@@ -39,6 +39,7 @@ We notice that the cargo system crossed a lot of area with higher trash density,
 The existing computer science problem of divide and conquer can be used for our initial strategy to find optimal route. The divide and conquer strategy aims to find the shortest route out of multiple path, eliminating ones that are not ideal.
 
 It is possible for use to alter the strategy a little bit during the first few collections, and it is important to record the effectiveness of all collecting process. As the project grew bigger or more datas of different journey are recorded, it is possible to apply machine learning to understand some other possible strategy that can be used to search for optimal routes.
+
 6. Monitoring and Remote Sensing of Drone
 The drone not only act as a real-time inspector of trash movements, it can only help record the weather, the salinity of ocean, the wind velocity or the temperature of the ocean. Often time, these data can not be easily recorded as it would be very far to collect these numbers. The drone that is installed on the collection ship could help science research and to even better analyse the ocean condition. For the large number of collection ships that would be operating on the ocean, it can create a large dataset that can be sold to institution, which can minority help the programme to be financially more sustainable.
 
